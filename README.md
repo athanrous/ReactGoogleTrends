@@ -1,3 +1,5 @@
+Goodbye Github! Hello Gitlab: https://gitlab.com/athanrous
+
 ##Instructions
 
 To run the django-server go into the root folder and type:
